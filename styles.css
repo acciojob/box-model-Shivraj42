@@ -1,1 +1,35 @@
-/*  your css code here. If applicable */
+
+.container{
+    display: flex;
+    justify-content: center;
+    height:200px;
+    background-color: gray;
+    border: 5px solid black;
+    border-radius: 50px;   
+    align-items: center;
+}
+.red{
+    margin: 50px;
+    width: 150px;
+    background-color: red;
+    height: 150px;
+    border-radius: 50%;
+}
+.green{
+    margin: 50px;
+    width: 150px;
+    background-color:green;
+    height: 150px;
+    border-radius: 50%;
+}
+.yellow{
+    margin:50px;
+    width: 150px;
+    background-color: yellow;
+    height: 150px;
+    border-radius: 50%;
+}
+
+
+
+
